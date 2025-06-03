@@ -1,2 +1,0 @@
-# SQL
-EXERCÍCIOS DE SQL
